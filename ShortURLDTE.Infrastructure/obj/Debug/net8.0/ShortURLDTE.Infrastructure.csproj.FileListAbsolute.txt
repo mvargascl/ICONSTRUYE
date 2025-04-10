@@ -10,6 +10,7 @@ C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Infrastructure\obj\Deb
 C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Infrastructure\obj\Debug\net8.0\ShortURLDTE.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Infrastructure\obj\Debug\net8.0\ShortURLDTE.Infrastructure.AssemblyInfo.cs
 C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Infrastructure\obj\Debug\net8.0\ShortURLDTE.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Infrastructure\obj\Debug\net8.0\ShortURLDTE.Infrastructure.sourcelink.json
 C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Infrastructure\obj\Debug\net8.0\ShortURL.29FBFBCB.Up2Date
 C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Infrastructure\obj\Debug\net8.0\ShortURLDTE.Infrastructure.dll
 C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Infrastructure\obj\Debug\net8.0\refint\ShortURLDTE.Infrastructure.dll

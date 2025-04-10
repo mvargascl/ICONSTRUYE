@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShortURLDTE.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18be54d1251a747bec6a7064c45eded44df57358")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShortURLDTE.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShortURLDTE.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

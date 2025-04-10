@@ -8,6 +8,7 @@ C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Application\obj\Debug\
 C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Application\obj\Debug\net8.0\ShortURLDTE.Application.AssemblyInfoInputs.cache
 C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Application\obj\Debug\net8.0\ShortURLDTE.Application.AssemblyInfo.cs
 C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Application\obj\Debug\net8.0\ShortURLDTE.Application.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Application\obj\Debug\net8.0\ShortURLDTE.Application.sourcelink.json
 C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Application\obj\Debug\net8.0\ShortURL.A2E74430.Up2Date
 C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Application\obj\Debug\net8.0\ShortURLDTE.Application.dll
 C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Application\obj\Debug\net8.0\refint\ShortURLDTE.Application.dll
