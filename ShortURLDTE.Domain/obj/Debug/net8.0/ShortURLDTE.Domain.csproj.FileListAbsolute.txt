@@ -1,0 +1,11 @@
+C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Domain\bin\Debug\net8.0\ShortURLDTE.Domain.deps.json
+C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Domain\bin\Debug\net8.0\ShortURLDTE.Domain.dll
+C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Domain\bin\Debug\net8.0\ShortURLDTE.Domain.pdb
+C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Domain\obj\Debug\net8.0\ShortURLDTE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Domain\obj\Debug\net8.0\ShortURLDTE.Domain.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Domain\obj\Debug\net8.0\ShortURLDTE.Domain.AssemblyInfo.cs
+C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Domain\obj\Debug\net8.0\ShortURLDTE.Domain.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Domain\obj\Debug\net8.0\ShortURLDTE.Domain.dll
+C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Domain\obj\Debug\net8.0\refint\ShortURLDTE.Domain.dll
+C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Domain\obj\Debug\net8.0\ShortURLDTE.Domain.pdb
+C:\Users\migue\Desktop\ICONSTRUYE\ShortURLDTE\ShortURLDTE.Domain\obj\Debug\net8.0\ref\ShortURLDTE.Domain.dll

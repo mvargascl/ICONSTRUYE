@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShortURLDTE.Domain/1.0.0": {
+        "runtime": {
+          "ShortURLDTE.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShortURLDTE.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

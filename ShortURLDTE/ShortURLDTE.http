@@ -1,0 +1,6 @@
+### Subir una factura DTE chilena
+POST http://localhost:5000/api/facturas
+Content-Type: multipart/form-data
+
+### Consultar factura por shortUrl
+GET http://localhost:5000/api/facturas/{{shortUrl}}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kvMkRjZVeO+1+AoaCfCvc9aMk+c/jwiNYgWkUkUoKdw=",
+  "Source": "ShortURLDTE.Api",
+  "BasePath": "_content/ShortURLDTE.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
